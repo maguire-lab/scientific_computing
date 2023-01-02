@@ -5,6 +5,7 @@ title: 'Assignment 2 - Genome Assembly'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
+hide_from_announcments: true
 due_event: 
     type: due
     date: 2023-03-02T23:59:00

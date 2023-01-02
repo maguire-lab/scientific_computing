@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-02-02T08:35:00+0:00
+date: 2023-02-02T08:35:00
 title: 'Assignment 1 - Alignment and Distant Homology'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
