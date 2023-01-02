@@ -1,17 +1,10 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
-links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
-      name: slides
+date: 2023-01-10T08:35:00
+title: "01 Course Overview & Life at Resolution"
+tldr: "Overview of the course, plague motivation, and biology background from DNA to Ecosystems"
+hide_from_announcments: true
+#links: 
+#    - url: https://google.com
+#      name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
