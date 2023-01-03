@@ -1,7 +1,7 @@
 # Site settings
 course_name: CSCI4181/6802 Bioinformatics Algorithms
 course_description: "Bioinformatics uses computational and statistical approaches to tackle questions of biological function and evolution. The goal of Algorithms in Bioinformatics is to introduce key applications of algorithms, data structures, and encodings to the analysis of large biological data sets. A recurring theme throughout the course will be the disconnect between algorithmic beauty and the horrifying realities of biological data. Every statistical model is violated and every classification comes with an asterisk, as we struggle with even the most basic concepts of 'gene' and 'species', and the challenges of understanding events that happened across ~3.5 billion years. In spite of these challenges, in this age of massive data sets we stand to learn a good deal if the computational tools we use are efficient, robust, properly validated, and correctly applied.  The course covers major challenge areas in bioinformatics, each focused on an aspect of DNA or protein sequence analysis. The goal in each case is to define an overarching problem, and then explore different approaches that have been applied to solving that problem, with an emphasis on the match (or mismatch) between the algorithm and the underlying biological system."
-course_semester: "Winter 2023"
+course_semester: "Winter 2022-2023"
 
 baseurl: "/bioinformatics_algorithms" # the subpath of your site, e.g. /blog/
 url: "http://maguire-lab.github.io/" # the base hostname & protocol for your site
