@@ -9,5 +9,5 @@ layout: home
 - Email: finlay.maguire@dal.ca
 - Office Hours: No fixed hours, email us for an appointment
 - [BrightSpace](https://dal.brightspace.com/d2l/le/content/251023/Home) for assignment/paper review submission.
-- [Syallabus](/static_files/2023_syallbus.pdf)
+- [Syallabus](/static_files/Bioinformatics_Algorithms_Syllabus_Winter_2022_2023.pdf)
 
