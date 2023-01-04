@@ -8,5 +8,6 @@ layout: home
 - Office: 4239 Mona Campbell Building, Studley Campus
 - Email: finlay.maguire@dal.ca
 - Office Hours: No fixed hours, email us for an appointment
+- [BrightSpace](https://dal.brightspace.com/d2l/le/content/251023/Home) for assignment/paper review submission.
 - [Syallabus](/static_files/2023_syallbus.pdf)
 
