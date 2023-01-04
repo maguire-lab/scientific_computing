@@ -9,6 +9,6 @@ hide_from_announcments: true
 due_event: 
     type: due
     date: 2023-03-16T23:59:00
-    description: 'Assignment 3 due'
+    description: 'Assignment 3 Deadline'
 ---
 From 2023-03-09 the assignment for the phylogeny module will be available for download here.

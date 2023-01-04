@@ -1,7 +1,7 @@
 ---
 type: exam
-date: 2023-04-04T8:35:00
-description: 'Paper Presentations'
+date: 2023-04-04T08:35:00
+description: 'Oral Review Presentations'
 hide_from_announcments: true
 ---
-Paper presentations (presenter schedule will be released closer to date)
+In-class presentation order will be randomly assigned after paper selection is finalised.
