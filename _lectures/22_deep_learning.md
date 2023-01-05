@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-03-30
-title: "20 Artificial Neural Networks & Deep Learning - Alex Manuele"
+title: "22 Artificial Neural Networks & Deep Learning - Alex Manuele"
 tldr: "Lecture by Alex Manuele on deep learning in biological datasets."
 hide_from_announcments: true
 #links: 
