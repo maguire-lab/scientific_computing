@@ -7,4 +7,6 @@ hide_from_announcments: true
 links: 
     - url:  /static_files/lectures/02_central_dogma_and_pathways.pdf
       name: slides
+    - url:  https://youtu.be/YFNF5wAfvrI 
+      name: recording
 ---
