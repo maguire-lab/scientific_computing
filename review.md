@@ -12,6 +12,19 @@ This will expose you to cutting-edge research in bioinformatics algorithms and p
 You will select your own bioinformatics-related primary research paper (i.e., not a review paper) published in or after 2020. This paper will be submitted via Brightspace by <span style="color:red">23:59 on March 21st</span>. Your selection will then be approved within 24 hours (with an alternative suggested if it your selection has issues due to quality, topic, or complexity) and form the basis of a written review and 13-15 minute oral presentation as described below.
 Please speak to me or Jee if you have any questions or concerns about this **before the deadline**.
 
+Journals and proceedings check for papers that seem interesting include:
+
+- [Bioinformatics](https://academic.oup.com/bioinformatics)
+- [Briefings in Bioinformatics](https://academic.oup.com/bib)
+- [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/): does publish papers that are a bit more bio-intensive
+- [GigaScience](https://academic.oup.com/gigascience): more focused towards analyses of large biological datasets (which is fine!)
+- [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/): quality can be varied 
+- [Nucelic Acids Research](https://academic.oup.com/nar): mix of papers including some of the best bioinformatics of biological sequence data but also lots of papers focused on the complex biochemistry of nucelic acids!
+- [RECOMB/RECOMB-Seq Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7): more classic CS side of things, you may have to dig around a bit to find proceedings but you can often also access open videos of talks.
+
+You are definitely more than welcome to use papers from major general audience journals like Nature, Science, Cell, Proceedings of the National Academy of Sciences etc but you will often find these papers involve a LOT of data and a LOT of different analyses.
+This can make them challenging to summarise well especially with more limited biological background knowledge.
+
 ## Written Summary
 
 You will prepare a written summary of the paper, the ideas it contains, the methods it uses, and the reported findings.
