@@ -10,4 +10,4 @@ layout: home
 - Office Hours: No fixed hours, email us for an appointment
 - [BrightSpace](https://dal.brightspace.com/d2l/le/content/251023/Home) for assignment/paper review submission.
 - [Syallabus](/static_files/Bioinformatics_Algorithms_Syllabus_Winter_2022_2023.pdf)
-
+- Majority of materials used in this class were originally created by Prof. Robert Beiko and modified (to greater and lesser degrees) by myself.
