@@ -7,4 +7,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/04_sequence_representation.pdf
       name: slides
+    - url: https://youtu.be/XzqvKZvItzU 
+      name: recording
 ---
