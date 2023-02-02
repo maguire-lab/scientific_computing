@@ -12,5 +12,6 @@ due_event:
     description: 'Assignment 1 Deadline'
 ---
 
-Assignment is available [here](/static_files/assignments/CSCI4181_6802_Assignment1_Homology.pdf)
+Assignment is available [here](/static_files/assignments/CSCI4181_6802_Assignment1_Homology.pdf) (amongst the other links on this page and the assignments homepage).
+
 Please submit your solutions to this assignment via the course brightspace.
