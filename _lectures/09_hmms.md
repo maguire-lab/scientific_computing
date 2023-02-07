@@ -2,9 +2,9 @@
 type: lecture
 date: 2023-02-07
 title: "09 Hidden Markov Models"
-tldr: "Introduction to HMMs using gene prediction as a motivating problem"
-hide_from_announcments: true
-#links: 
-#    - url: https://google.com
-#      name: slides
+tldr: "Quick introduction to HMMs"
+hide_from_announcments: false
+links: 
+    - url: /static_files/lectures/09_hmms.pdf
+      name: slides
 ---
