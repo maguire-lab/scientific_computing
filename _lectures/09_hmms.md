@@ -7,4 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/09_hmms.pdf
       name: slides
+    - url: https://youtu.be/pDg7AFzMDPI
+      name: recording (previous offering)
 ---
