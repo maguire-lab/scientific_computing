@@ -1,10 +1,10 @@
 ---
 type: lecture
 date: 2023-02-14
-title: "11 Metagenomic Assembly"
-tldr: "Assembly algorithms for assembling mixed sequencing data from multiple genomes at once"
-hide_from_announcments: true
-#links: 
-#    - url: https://google.com
-#      name: slides
+title: "11 de Bruijn Graphs and Metagenomic Assembly"
+tldr: "dBG methods and assembly algorithms for assembling mixed sequencing data from multiple genomes at once"
+hide_from_announcments: false
+links: 
+    - url: /static_files/lectures/11_dbg_metagenomics.pdf
+      name: slides
 ---
