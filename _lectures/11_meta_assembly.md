@@ -7,4 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/11_dbg_metagenomics.pdf
       name: slides
+    - url: https://youtu.be/-CeAN5_3648
+      name: recording
 ---
