@@ -7,4 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/12_dbg_graph_searches.pdf
       name: slides
+    - url: https://youtu.be/9qRLvkGX-bs
+      name: recording
 ---
