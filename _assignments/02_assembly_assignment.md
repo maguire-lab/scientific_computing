@@ -11,5 +11,6 @@ due_event:
     date: 2023-03-02T23:59:00
     description: 'Assignment 2 Deadline'
 ---
-From 2023-02-16 the assignment for the assembly module will be available for download [here](/static_files/assignments/CSCI4181_6802_Assignment2_Assembly.pdf)
+From 2023-02-16 the assignment for the assembly module will be available for download [here](/bioinformatics_algorithms/static_files/assignments/CSCI4181_6802_Assignment2_Assembly.pdf).
+
 This assignment will require access to `timberlea.cs.dal.ca` which in turn requires a Dal CSID so please contact me or Jee if you do not have one already.
