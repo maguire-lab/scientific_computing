@@ -7,4 +7,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/13_parsimony_distance.pdf 
       name: slides
+    - url: https://www.youtube.com/watch?v=3qEKEucnOVI&list=PLTVmfxNmqYppWCxW5EqDB3clnE5l4foaz&index=13
+      name: recording
 ---
