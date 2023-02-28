@@ -22,6 +22,8 @@ Journals and proceedings check for papers that seem interesting include:
 - [Nucelic Acids Research](https://academic.oup.com/nar): mix of papers including some of the best bioinformatics of biological sequence data but also lots of papers focused on the complex biochemistry of nucelic acids!
 - [RECOMB/RECOMB-Seq Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7): more classic CS side of things, you may have to dig around a bit to find proceedings but you can often also access open videos of talks.
 
+Also try to avoid more "predatory" publishers such as MDPI and Frontiers.
+
 You are definitely more than welcome to use papers from major general audience journals like Nature, Science, Cell, Proceedings of the National Academy of Sciences etc but you will often find these papers involve a LOT of data and a LOT of different analyses.
 This can make them challenging to summarise well especially with more limited biological background knowledge.
 
