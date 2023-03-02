@@ -7,4 +7,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/14_distance_and_ML.pdf
       name: slides
+    - url: https://youtu.be/tkIflteutng
+      name: recording
 ---
