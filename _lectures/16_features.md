@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-03-16
-title: "18 Feature Selection and Visualisation"
+date: 2023-03-09
+title: "16 Feature Selection and Visualisation"
 tldr: "Introduction to methods for feature selection and visualisation of data for machine learning."
 hide_from_announcments: true
 #links: 
