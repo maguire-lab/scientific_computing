@@ -8,5 +8,5 @@ links:
     - url:  /static_files/lectures/01_course_overview_and_life_at_res.pdf  
       name: slides
     - url:  https://youtu.be/T3rtoXoA14M
-      name: recording (previous year)
+      name: recording (previous offering)
 ---
