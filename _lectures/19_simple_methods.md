@@ -7,4 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/19_training.pdf
       name: slides
+    - url: https://youtu.be/SP3a__sdPYA
+      name: recording
 ---
