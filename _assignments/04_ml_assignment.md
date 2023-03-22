@@ -13,10 +13,10 @@ due_event:
 ---
 
 This assignment requires you to install some basic tools and libarires on your computer. Fortunately, these are well documented and heavily used tools with lots of support. 
-First download the pre-requisite instructions (pdf link above or [here](https://maguire-lab.github.io/bioinformatics_algorithms/static_files/assignments/CSCI4181_6802_Assignment4_Prerequisites.pdf)) and the assignment files (zip link above or [here](https://maguire-lab.github.io/bioinformatics_algorithms/static_files/assignment/CSCI4181_6802_Assignment4.zip)).
+First download the pre-requisite instructions (pdf link above or [here](https://maguire-lab.github.io/bioinformatics_algorithms/static_files/assignments/CSCI4181_6802_Assignment4_Prerequisites.pdf)) and the assignment files (zip link above or [here](https://maguire-lab.github.io/bioinformatics_algorithms/static_files/assignments/CSCI4181_6802_Assignment4.zip))
 
 The PDF contains instructions for how to install the tools needed and the .zip file contains all the other files you need to complete the assignment.
 Once you've finished installing the tools, unzip the files into your working folder, then start jupyter in this folder and open the .ipynb file.
 
 The rest of the instructions for the assignment can be found in the jupyter notebook that should have just opened.
-Edit this notebook as directed and submit your answers as an exported PDF of the notebook (this can be done using the menus at the top of the screen).
+Either edit this notebook as directed and submit your answers as an exported PDF of the notebook (this can be done using the menus at the top of the screen) or submit a separate document with your answers.
