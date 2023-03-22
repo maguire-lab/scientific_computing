@@ -53,11 +53,11 @@ Mark scheme for written summary:
 
 ## Oral Summary
 
-You will prepare a 13-15 minute presentation summarising the paper, the ideas it contains, the methods it uses, and the report findings.
+You will prepare a 10 minute presentation summarising the paper, the ideas it contains, the methods it uses, and the report findings.
 This is also marked out of **20** and will be worth **10%** of your final grade. Presentations will be scheduled in random order after your paper selection is finalised and will take place during the last week of class: <span style="color:red">April 4th-6th</span>.
 
 Mark scheme for the oral summary is the same as the written summary with the exception of **Clarity**:
-- **Length**: 13-15 minutes 
+- **Length**: 10 minutes max
 - **Background and Motivation (3 points)**: Explain the importance of the work that was done. You might want to look at other information such as references that are cited by your paper to get a broader perspective.
 - **Rationale for approach (3 points)**: Why did the authors take the approach? Does the approach taken seem like a good idea to you? How is it meant to improve on other methods?
 - **Explain the method (4 points)**: Again, in your own words, using insights you have gained from the course.
