@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2023-04-04T08:35:00
+date: 2023-04-04
 description: 'Oral Review Presentations'
 hide_from_announcments: true
 ---
