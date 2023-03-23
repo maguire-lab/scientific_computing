@@ -7,4 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/20_classifiers.pdf 
       name: slides
+    - url: https://youtu.be/mA7cbIlYzn4
+      name: recording
 ---
