@@ -5,7 +5,7 @@ title: 'Assignment 1'
 pdf: /static_files/assignments/lab1.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-hide_from_announcments: false
+hide_from_announcments: true
 due_event: 
     type: due
     date: 2025-01-13T23:59:00
