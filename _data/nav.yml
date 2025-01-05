@@ -11,6 +11,6 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-- url: /practicals/
-  name: Practicals 
+- url: /assigments/
+  name: Assignments
   icon_class: fas fa-user-graduate

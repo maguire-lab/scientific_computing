@@ -1,12 +1,12 @@
 ---
 type: lecture
-date: 2023-01-10T08:35:00
-title: "01 Course Overview & Life at Resolution"
-tldr: "Overview of the course, motivational plagues, and biology background from DNA to Ecosystems"
+date: 2025-01-06T13:05:00
+title: "01 Introduction, Variables & Data Types"
+tldr: "Overview of the course, motivation, and introduction to python data types and variables"
 hide_from_announcments: true
 links: 
-    - url:  /static_files/lectures/01_course_overview_and_life_at_res.pdf  
+    - url:  /static_files/lectures/01_intro_var_datatypes.pdf  
       name: slides
-    - url:  https://youtu.be/T3rtoXoA14M
-      name: recording (previous offering)
+#    - url:  https://youtu.be/T3rtoXoA14M
+#      name: recording (previous offering)
 ---
