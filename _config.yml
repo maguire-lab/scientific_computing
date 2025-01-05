@@ -1,16 +1,16 @@
 # Site settings
-course_name: CSCI4181/6802 Bioinformatics Algorithms
-course_description: "Bioinformatics uses computational and statistical approaches to tackle questions of biological function and evolution. The goal of Algorithms in Bioinformatics is to introduce key applications of algorithms, data structures, and encodings to the analysis of large biological data sets. A recurring theme throughout the course will be the disconnect between algorithmic beauty and the horrifying realities of biological data. Every statistical model is violated and every classification comes with an asterisk, as we struggle with even the most basic concepts of 'gene' and 'species', and the challenges of understanding events that happened across ~3.5 billion years. In spite of these challenges, in this age of massive data sets we stand to learn a good deal if the computational tools we use are efficient, robust, properly validated, and correctly applied.  The course covers major challenge areas in bioinformatics, each focused on an aspect of DNA or protein sequence analysis. The goal in each case is to define an overarching problem, and then explore different approaches that have been applied to solving that problem, with an emphasis on the match (or mismatch) between the algorithm and the underlying biological system."
-course_semester: "Winter 2022-2023"
+course_name: "CSCI2202 Introduction to Programming with Applications for Scientists"
+course_description: "This is an introductory, project based, programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming in Python and then goes on to guide students through using simulations, modelling and data-driven analysis. Practical examples will be taken primarily from the fields of microbiology, genomics, neuroscience, and chemistry among others."
+course_semester: "Winter 2024-2025"
 
-baseurl: "/bioinformatics_algorithms" # the subpath of your site, e.g. /blog/
+baseurl: "/scientific_computing" # the subpath of your site, e.g. /blog/
 url: "http://maguire-lab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dalhousie University"
 schoolurl: "https://dalhousie.ca"
 
 address: |
-    Room 1201, Mona Campbell Building
+    Room 4242, Mona Campbell Building
     Faculty of Computer Science, Dalhousie University
     Halifax, Nova Scotia
 
@@ -44,6 +44,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "assignments"
+      type: "practicals"
     values:
-      layout: "assignment"
+      layout: "practical"

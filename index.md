@@ -2,12 +2,13 @@
 layout: home
 ---
 
-## 2023 Course Details
+## 2024-2025 Course Details
 
-- Tuesday & Thursday: 8:35-9:55, 1201 Mona Campbell Building
-- Office: 4239 Mona Campbell Building, Studley Campus
+- Lecture: Mon 13:05-14:25, 1016 Kenneth C Rowe Management Building
+- Lab: Tues/Thurs 11:35-12:55, 301A Sir James Dunn Building
+- TAs: Ehsan Baratnezhad [ethan.b@dal.ca](ethan.b@dal.ca)
+- Office: 4242 Mona Campbell Building, Studley Campus
 - Email: finlay.maguire@dal.ca
-- Office Hours: No fixed hours, email us for an appointment
-- [BrightSpace](https://dal.brightspace.com/d2l/le/content/251023/Home) for assignment/paper review submission.
-- [Syallabus](/static_files/Bioinformatics_Algorithms_Syllabus_Winter_2022_2023.pdf)
-- Majority of materials used in this class were originally created by Prof. Robert Beiko and modified (to greater and lesser degrees) by myself.
+- Office Hours: Thursday 13:15-14:30 (following lab session)
+- [BrightSpace](https://dal.brightspace.com/d2l/home/359151)
+- [Syallabus](/static_files/CSCI2202_2024_2025.pdf)
