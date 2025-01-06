@@ -12,6 +12,6 @@ due_event:
     description: 'Assignment 1 Deadline'
 ---
 
-Assignment is available [here](/static_files/assignments/lab1.pdf) (amongst the other links on this page and the assignments homepage).
+The lab guide (including assignment questions) is available above.
 
-Please submit your solutions to this assignment via the course brightspace.
+Please submit your solutions to this assignment via the course brightspace as a text document (e.g. .txt, .docx, .pdf).
