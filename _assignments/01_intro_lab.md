@@ -2,7 +2,7 @@
 type: assignment
 date: 2025-01-07T11:35:00
 title: 'Lab 1 (Formative)'
-pdf: /static_files/assignments/lab1.pdf
+pdf: /static_files/praticals/lab1.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 hide_from_announcments: true
