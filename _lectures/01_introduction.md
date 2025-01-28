@@ -7,6 +7,6 @@ hide_from_announcments: true
 links: 
     - url:  /static_files/lectures/01_intro_var_datatypes.pdf  
       name: slides
-#    - url:  https://youtu.be/T3rtoXoA14M
-#      name: recording (previous offering)
+    - url: https://youtu.be/mq8izkmihB0
+      name: recording
 ---

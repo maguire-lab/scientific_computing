@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/02_cond_func_str_list_loop.pdf
       name: slides
-#    - url:  https://youtu.be/T3rtoXoA14M
-#      name: recording (previous offering)
+    - url:  https://youtu.be/UicAxiDma-s
+      name: recording 
 ---

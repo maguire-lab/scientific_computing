@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/03_while_dict_mod_repr.pdf
       name: slides
-#    - url:  https://youtu.be/T3rtoXoA14M
-#      name: recording (previous offering)
+    - url:  https://youtu.be/zpcRdv0-Z94
+      name: recording 
 ---
