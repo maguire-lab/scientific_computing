@@ -8,7 +8,7 @@ pdf: /static_files/practicals/lab4.pdf
 hide_from_announcments: false
 due_event: 
     type: due
-    date: 2025-03-03T23:59:00
+    date: 2025-02-03T23:59:00
     description: 'Assignment 3 Deadline'
 ---
 
