@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/05_object_oriented_programming.pdf
       name: slides
-    #- url:  https://youtu.be/AuftvdowNF8
-    #  name: recording
+    - url:  https://youtu.be/9ussCY62vo8
+      name: recording
 ---
