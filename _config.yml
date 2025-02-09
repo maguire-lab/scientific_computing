@@ -18,7 +18,7 @@ address: |
 
 # Build settings
 markdown: kramdown
-timezone: Canada/Atlantic
+#timezone: Canada/Atlantic
 
 # Other options
 permalink: blog/:year/:month/:title
