@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/06_files_exceptions.pdf
       name: slides
-#    - url:  https://youtu.be/9ussCY62vo8
-#      name: recording
+    - url:  https://youtu.be/kN31Jqx-AGU
+      name: recording
 ---
