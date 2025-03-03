@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/08_pandas.pdf
       name: slides
-    #- url:  https://youtu.be/kN31Jqx-AGU
-    #  name: recording
+    - url:  https://youtu.be/3v1liXEUbGw 
+      name: recording
 ---
