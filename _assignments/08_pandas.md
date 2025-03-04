@@ -15,3 +15,5 @@ due_event:
 The lab guide (including assignment questions) is available above.
 
 Please submit your solutions to this assignment via the course brightspace as a jupyter notebook in .ipynb format (as described at the start of the lab guide).
+
+Note: to keep the labs and lecture numbering aligned after the mid-term we have skipped lab 7 (i.e., we go from lab 6 to lab 8).
