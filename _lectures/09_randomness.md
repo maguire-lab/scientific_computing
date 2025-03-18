@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/09_random.pdf
       name: slides
-    #- url:  https://youtu.be/3v1liXEUbGw 
-    #  name: recording
+    - url:  https://youtu.be/VQvCoRNE0Jk
+      name: recording
 ---

@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/10_regression.pdf
       name: slides
-    #- url:  https://youtu.be/3v1liXEUbGw 
-    #  name: recording
+    - url:  https://youtu.be/wBO-QV3oC5M
+      name: recording
 ---
