@@ -3,6 +3,7 @@ type: assignment
 date: 2025-03-18T11:35:00
 title: 'Lab 10'
 pdf: /static_files/practicals/lab10.pdf
+attachment: /static_files/practicals/coffee_temps.txt
 hide_from_announcments: false
 due_event: 
     type: due

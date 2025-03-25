@@ -3,6 +3,7 @@ type: assignment
 date: 2025-03-25T11:35:00
 title: 'Lab 11'
 pdf: /static_files/practicals/lab11.pdf
+attachment: /static_files/practicals/winequality-red.csv
 hide_from_announcments: false
 due_event: 
     type: due
