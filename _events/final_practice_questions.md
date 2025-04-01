@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: exam
 date: 2025-04-01T11:35:00
 title: 'Final Practice Questions'
 pdf: /static_files/practicals/final_practice_questions.pdf
