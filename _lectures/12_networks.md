@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url:  /static_files/lectures/12_networks.pdf
       name: slides
-    #- url:  https://youtu.be/gR5E4Ag3qbE
-    #  name: recording
+    - url:  https://youtu.be/-8ivQEuxZ-k
+      name: recording
 ---
